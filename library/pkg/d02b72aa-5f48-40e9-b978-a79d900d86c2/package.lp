@@ -1,5 +1,5 @@
 (librepcb_package d02b72aa-5f48-40e9-b978-a79d900d86c2
- (name "SoundTransComp")
+ (name "Sound Transducer")
  (description "")
  (keywords "")
  (author "peter")
