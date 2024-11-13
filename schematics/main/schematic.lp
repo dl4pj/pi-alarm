@@ -101,7 +101,7 @@
   (component 7ea6be86-9f1f-4da0-af06-5080023d59f4)
   (lib_gate 23f3bc73-5f17-44e3-ac44-2bc61951f32c)
   (position -20.32 25.4) (rotation 90.0) (mirror false)
-  (text 39585059-7a8e-4234-9553-5ee5a4149fc0 (layer sym_names) (value "{{NAME}}")
+  (text 39585059-7a8e-4234-9553-5ee5a4149fc0 (layer sym_names) (value "Alarm-contact")
    (align center bottom) (height 2.54) (position -22.86 25.4) (rotation 90.0)
   )
   (text efb53f3c-91c3-4d77-acc3-7b54c3acf29f (layer sym_values) (value "{{VALUE}}")
